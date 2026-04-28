@@ -5,7 +5,7 @@
         "labels": "Emby,动态封面,媒体库",
         "version": "0.9.7",
         "icon": "https://raw.githubusercontent.com/justzerock/MoviePilot-Plugins/main/icons/emby.png",
-        "author": "justzerock",
+        "author": "justzerock&zoffyultraman&sisheng36",
         "level": 1,
         "history": {
             "v0.9.7": "修复重启或第一次获取字体失败后生成封面没有文字的问题",
