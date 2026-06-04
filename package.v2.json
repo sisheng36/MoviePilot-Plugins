@@ -1,4 +1,16 @@
 {
+    "ANiStrm": {
+    "name": "ANi Strm",
+    "description": "自动获取当季所有番剧，生成strm文件，mp刮削入库，emby直接播放，免去下载，轻松拥有一个番剧媒体库",
+    "version": "2.5.1",
+    "v2": true,
+    "icon": "https://raw.githubusercontent.com/honue/MoviePilot-Plugins/main/icons/anistrm.png",
+    "author": "honue",
+    "level": 2
+    "history": {
+            "v2.5.1": "修复一些问题"
+        }
+  },
     "MediaCoverGenerator": {
         "name": "Emby媒体库封面生成",
         "description": "生成媒体库动态/静态封面，支持 Emby/Jellyfin",
