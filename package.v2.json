@@ -6,7 +6,7 @@
     "v2": true,
     "icon": "https://github.com/sisheng36/MoviePilot-Plugins/blob/main/icons/anistrm.png?raw=true",
     "author": "honue",
-    "level": 2,
+    "level": 1,
     "history": {
             "v2.5.1": "修复一些问题"
         }
