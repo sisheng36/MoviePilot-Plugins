@@ -23,7 +23,7 @@ class ANiStrm(_PluginBase):
     author_url = "https://github.com/honue"
     plugin_config_prefix = "anistrm_"
     plugin_order = 15
-    auth_level = 2
+    auth_level = 1
 
     _enabled = False
     _use_proxy = True
